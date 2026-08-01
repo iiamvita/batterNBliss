@@ -524,7 +524,26 @@ letter-spacing:10px;
 
 }
 
+/****Info card*** / 
+.info-card{
 
+max-width:850px;
+
+margin:auto;
+
+background:white;
+
+padding:40px;
+
+border-radius:35px;
+
+box-shadow:0 12px 30px rgba(91,58,41,.10);
+
+border-left:8px solid var(--caramel);
+
+line-height:1.8;
+
+}
 
 /* =========================
             MENU
