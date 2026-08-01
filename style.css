@@ -51,6 +51,14 @@ h2,
 
 }
 
+.logo h1,
+.hero h1, 
+h2, 
+.menu-card h3{
+   font-family: "Allura", "Cormorant Garmond", serif;
+
+}
+
 
 
 /* =========================
